@@ -1,5 +1,3 @@
-# Make an environment
-
 # YOLOv11 Setup Guide
 
 ## Prerequisites
