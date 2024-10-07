@@ -1,1 +1,11 @@
 venv/
+runs/
+yolo11n-seg.pt
+yolo11x-obb.pt
+yolo11x-pose.pt
+yolo11x.pt
+yolov8n.pt
+yolov8x-pose.pt
+yolov8n-pose.pt
+yolov8x.pt
+landmarks.csv
